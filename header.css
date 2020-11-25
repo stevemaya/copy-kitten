@@ -1,0 +1,18 @@
+ul {
+    font: 25px medium; 
+    background-color: #3F4148;
+}
+li {
+    display: inline-block;
+    padding: 15px 30px 15px 110px;
+}
+
+li a {
+    color: #CFCCCD;
+    text-align: center;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #198e77
+}
